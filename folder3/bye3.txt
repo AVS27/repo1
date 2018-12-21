@@ -1,0 +1,1 @@
+print "bye*3 world"
