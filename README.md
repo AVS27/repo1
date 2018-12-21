@@ -1,2 +1,2 @@
 # repo1
-FIrst Repo to learn GitHub
+First Repo to learn GitHub
